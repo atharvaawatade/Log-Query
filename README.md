@@ -1,4 +1,4 @@
-# Log Query Interface
+# Log Query
 
 This project provides a user-friendly interface for querying logs stored in log files. It allows users to search for logs based on various criteria such as log level, log message, and timestamp.
 
@@ -17,7 +17,7 @@ This project provides a user-friendly interface for querying logs stored in log 
 2. Navigate to the project directory:
 
     ```
-    cd log-query-interface
+    cd log-query
     ```
 
 ### Step 2: Create and Activate Virtual Environment
